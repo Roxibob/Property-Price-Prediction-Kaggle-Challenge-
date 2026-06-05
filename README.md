@@ -15,7 +15,7 @@ The target variable is continuous, making this a regression problem.
   e)Optimize predictions based on the evaluation metric
 
 #### Evaluation 
-Primary Metric: Root Mean Squared Error (RMSE)
+Primary Metric: Root Mean Squared Error (RMSE) and Mean RMSE
 Lower RMSE = Better performance.
 
 ## Results
