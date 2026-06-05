@@ -21,6 +21,9 @@ Lower RMSE = Better performance.
 
 ## Results
 a)Achieved a mean 5-fold cross-validation RMSE scores: [16.17726002 16.36351354 15.81342896 16.11964252 15.60740072] and Mean RMSE: 16.016249150496243 consistent performance across folds.
+
 b)Model performance was validated using cross-validation, RMSE evaluation, and error analysis before generating final competition submissions.
+
 c)Developed an ensemble regression pipeline using XGBoost and LightGBM with automated preprocessing and feature engineering.
+
 d)Applied log-transformation of the target variable to improve prediction accuracy and model stability.
