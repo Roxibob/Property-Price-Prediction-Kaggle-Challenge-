@@ -11,9 +11,13 @@ The target variable is continuous, making this a regression problem.
 #### Participants are expected to:
 
   a)Perform exploratory data analysis
+  
   b)Handle missing values
+  
   c)Engineer meaningful features
+  
   d)Build and validate regression models
+  
   e)Optimize predictions based on the evaluation metric
 
 #### Evaluation 
