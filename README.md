@@ -3,7 +3,9 @@ Machine learning pipeline developed for the RCBP Kaggle Challenge to predict pro
 
 ## Kaggle-Challenge 
 This competition, participants are provided with structured data describing residential properties, including location attributes, physical characteristics, and neighborhood features.
+
 The task was to build a machine learning model to predict the final sale price of each property.
+
 The target variable is continuous, making this a regression problem.
 
 #### Participants are expected to:
